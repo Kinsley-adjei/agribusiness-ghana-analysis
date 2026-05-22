@@ -1,0 +1,14 @@
+# Stata temporary files
+*.stswp
+*.log
+*.smcl
+
+# Data files (not for public sharing)
+*.dta
+*.csv
+*.xlsx
+*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
