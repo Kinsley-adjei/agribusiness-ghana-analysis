@@ -1,6 +1,5 @@
 * ==============================================================================
 * Agribusiness Analysis in Ghana
-* For Dr. Abigail A. Adaku
 * Author: Kinsley Delanyo Adjei
 * Date: July 2025
 * 
